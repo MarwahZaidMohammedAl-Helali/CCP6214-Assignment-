@@ -1,0 +1,78 @@
+Name x y z weight profit
+Star A 49 37 72 11 77
+Star B 57 42 62 100 95
+Star C 8 45 49 22 46
+Star D 39 31 53 57 89
+Star E 95 6 18 40 19
+Star F 91 19 89 25 7
+Star G 89 9 16 15 97
+Star H 62 53 41 52 10
+Star I 29 51 99 57 11
+Star J 95 41 85 60 1
+Star K 1 94 66 95 97
+Star L 91 74 22 22 14
+Star M 4 22 13 2 22
+Star N 80 51 29 71 100
+Star O 23 24 59 54 26
+Star P 78 37 86 98 53
+Star Q 58 59 41 87 29
+Star R 13 89 25 75 47
+Star S 69 90 40 17 11
+Star T 86 85 48 69 57
+
+Edges with distances:
+Star1 Star2 Distance
+Star A Star I 36
+Star A Star F 48
+Star A Star N 54
+Star B Star J 44
+Star B Star D 22
+Star B Star L 61
+Star C Star E 100
+Star C Star D 34
+Star C Star I 54
+Star D Star M 53
+Star E Star L 68
+Star E Star Q 68
+Star F Star I 70
+Star F Star D 64
+Star G Star L 65
+Star G Star M 86
+Star G Star H 57
+Star H Star L 40
+Star H Star R 62
+Star J Star T 58
+Star J Star F 22
+Star K Star S 72
+Star K Star I 61
+Star K Star O 73
+Star M Star K 89
+Star N Star D 51
+Star N Star L 26
+Star O Star H 51
+Star O Star E 84
+Star P Star R 103
+Star P Star M 105
+Star P Star F 22
+Star Q Star H 7
+Star Q Star K 71
+Star R Star K 43
+Star S Star C 76
+Star S Star H 37
+Star T Star Q 38
+Star T Star F 77
+Star M Star J 117
+Star Q Star C 52
+Star Q Star R 56
+Star I Star D 51
+Star A Star E 77
+Star O Star Q 52
+Star I Star H 66
+Star M Star F 115
+Star D Star H 34
+Star P Star L 75
+Star C Star O 27
+Star O Star M 49
+Star F Star R 122
+Star T Star P 61
+Star T Star N 39
